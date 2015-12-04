@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Software\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-43fb956f3fc62d1c5333ace2c4bad54d44ba4055.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8aed2512915eb930a43cf8a0717460c5231b3b05">
+        <dex dex="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\build\intermediates\pre-dexed\release\unity-classes-97f83c841637f59670973c8b06d6a0600b05dace.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\build\intermediates\pre-dexed\release\classes-20282e761bc8f6fced4cae81ce93536ba8cbefc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-ff335a9bbf10640641adf77b31c9392072409b0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Myriad\AndroidStudioProjects\EVTFinalBeta\app\build\intermediates\pre-dexed\release\classes-b2bedc2f79f00b735b557e030b0798a61e48d354.jar" />
+    </item>
+
+</items>
